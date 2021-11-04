@@ -1,1 +1,6 @@
 # dockerspringbootsample
+
+
+## Run
+
+./gradlew bootRun
